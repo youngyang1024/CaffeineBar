@@ -38,8 +38,8 @@ No development environment needed — download and run.
 
 | Chip | Compatible Macs | Download |
 |:---|:---|:---|
-| **Apple Silicon (ARM64)** | MacBook Air/Pro M1/M2/M3/M4 etc. | [📥 Download CaffeineBar-arm64.zip](https://github.com/youngyang1024/CaffeineBar/CaffeineBar/releases/latest/download/CaffeineBar-arm64.zip) |
-| **Intel (x86_64)** | Macs from 2020 and earlier | [📥 Download CaffeineBar-x86_64.zip](https://github.com/youngyang1024/CaffeineBar/CaffeineBar/releases/latest/download/CaffeineBar-x86_64.zip) |
+| **Apple Silicon (ARM64)** | MacBook Air/Pro M1/M2/M3/M4 etc. | [📥 Download CaffeineBar-arm64.zip](/CaffeineBar-x86_64.zip) |
+| **Intel (x86_64)** | Macs from 2020 and earlier | [📥 Download CaffeineBar-x86_64.zip](/CaffeineBar-x86_64.zip) |
 
 > 💡 **Not sure which chip your Mac has?** Click  → "About This Mac" and check the "Chip" field. If it says "Apple M1/M2/M3/M4", choose ARM64. If it says "Intel", choose x86_64.
 
